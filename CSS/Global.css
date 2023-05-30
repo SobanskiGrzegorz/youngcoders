@@ -1,0 +1,91 @@
+
+html, body
+{   font-size: 17px;
+    background-color:#EEF0F1;
+ }
+  
+.Section
+{
+    height: 300px;
+    Line-height: 300px;
+    width: 500px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px; 
+    color: white;
+    display: inline-block;
+}
+
+.Header
+{
+   height: 150px; 
+   background-color: white;
+   text-align: center;
+   line-height: 150px;
+   color: #184A57;
+   font-weight: bold;
+   font-family: VarelaRound;
+}
+
+.PersonSection
+{
+    height: 160px; 
+    Line-height: 160px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+    color:  white;
+    display: inline-block;
+
+}
+
+
+.SectionLine 
+{
+    text-align: center;
+}
+
+.SectionStyle1
+{
+    background-color:#6FC4BF ;
+    border-color:#6FC4BF ;
+
+}
+
+.SectionStyle2
+{
+    background-color:#A6C710 ;
+    border-color:#A6C710 ;
+}
+
+.SectionStyle3
+{
+    background-color: #A96FAD;
+    border-color: #A96FAD;
+
+}
+
+.SectionStyle4
+{
+    background-color:#D0551E ;
+    border-color:#D0551E ;
+}
+
+
+h1
+{
+    font-size: 40px;
+}
+
+@font-face {
+    font-family: "Lobster";
+    src: url("../Fonts/Lobster.ttf");    
+}
+
+@font-face {
+    font-family: "VarelaRound";
+    src: url("../Fonts/VarelaRound-Regular.ttf");    
+}
